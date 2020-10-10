@@ -1,3 +1,9 @@
+body {
+    margin: 0;
+    height: 100%;
+    background-color: lightblue;
+
+}
 #title {
   color: darkred;
   font-family: Georgia;
@@ -53,7 +59,6 @@ h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: lightblue;
     font-family: Georgia;
   }
   #img-div {
