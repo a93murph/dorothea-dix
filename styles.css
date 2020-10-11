@@ -5,14 +5,14 @@ body {
 
 }
 #title {
-  color: rgb(224, 107, 107);
+  color: darkred;
   font-family: Georgia;
   font-size: 30px;
   margin-bottom: 2px;
 }
 h2 {
   font-family: Georgia;
-  color: rgb(224, 107, 107);
+  color: darkred;
   font-size: 17px;
   margin-top: 5px;
 }
