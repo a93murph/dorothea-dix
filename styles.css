@@ -43,18 +43,20 @@ h2 {
   text-align: center;
   font-family: Georgia;
   font-size: 15px;
+  padding-top: 20px;
+  padding-bottom: 15px;
 }
 title {
   color: darkred;
   font-family: Georgia;
   font-size: 30px;
   margin-bottom: 2px;
-
-h2 {
-  font-family: Georgia;
-  color: darkred;
-  font-size: 17px;
-  margin-top: 5px;
+}
+  h2 {
+    font-family: Georgia;
+    color: darkred;
+    font-size: 17px;
+    margin-top: 5px;
   }
   #main {
     display: flex;
@@ -85,7 +87,6 @@ h2 {
   a:hover {
     color: red;
   }
-}
 a:hover {
   color: red;
 }
